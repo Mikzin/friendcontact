@@ -33,10 +33,10 @@ export default {
           isFavorite: true,
         },
         {
-          id: 'adelia',
-          name: 'Adelia',
+          id: 'petr',
+          name: 'Petr Ivanov',
           phone: '89992341488',
-          email: 'adelia@example.ru',
+          email: 'petr@example.ru',
           isFavorite: false,
         },
       ],
